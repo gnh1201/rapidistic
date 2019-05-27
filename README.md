@@ -1,2 +1,2 @@
 # rapidistic
-Rapid(Extremely) Migration Tool for MySQL to Elasticsearch
+Rapid(Extremely) Data Migration Tool for MySQL to Elasticsearch
